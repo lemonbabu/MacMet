@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebView.iml" filepath="$PROJECT_DIR$/.idea/modules/WebView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MacMet.iml" filepath="$PROJECT_DIR$/.idea/modules/MacMet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MacMet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MacMet.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MacMet.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MacMet.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MacMet.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MacMet.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MacMet.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MacMet.app.unitTest.iml" />
     </modules>
   </component>
 </project>
