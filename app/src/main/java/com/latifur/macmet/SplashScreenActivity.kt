@@ -1,4 +1,4 @@
-package com.azhamudev.kotlinproject
+package com.latifur.macmet
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
